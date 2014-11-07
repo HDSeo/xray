@@ -1,0 +1,12 @@
+/score/create/boxMesh mesh
+/score/mesh/boxSize 10. 10. 1. cm
+/score/mesh/nBin 10 10 1
+/score/mesh/translate/xyz 0. 0. 55. cm
+/score/quantity/energyDeposit eDep
+/score/colorMap/setMinMax ! 0. 6.
+/score/close 
+/gun/particle gamma
+/gun/energy 6. MeV
+/run/beamOn 100
+/score/drawProjection mesh eDep
+

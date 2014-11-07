@@ -1,0 +1,2 @@
+/home/seohyeondeok/Git/xray/xray_build_lab/CMakeFiles/B1.dir
+/home/seohyeondeok/Git/xray/xray_build_lab/CMakeFiles/exampleB1.dir
